@@ -34,6 +34,7 @@ O City Brain se posiciona como um sistema de apoio à decisão baseado nesses co
 Desenvolver uma solução de Business Intelligence para monitoramento e gestão de indicadores urbanos, contribuindo para a melhoria da eficiência dos serviços públicos.
 
 📌 Objetivos Específicos
+
 Definir indicadores estratégicos urbanos (KPIs)
 Aplicar frameworks de governança de TI
 Criar dashboards interativos
