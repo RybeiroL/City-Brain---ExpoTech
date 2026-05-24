@@ -49,8 +49,11 @@ Fontes de Dados → BigQuery → Looker Studio → Dashboard Interativo
 
 ## 🔹 Tecnologias Utilizadas
 Google BigQuery → Armazenamento e processamento de dados
+
 Looker Studio → Visualização e dashboards
+
 GitHub → Versionamento e documentação
+
 SQL → Manipulação de dados
 
 ## 📊 Indicadores do Dashboard
