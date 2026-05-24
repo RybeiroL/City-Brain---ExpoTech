@@ -1,9 +1,7 @@
-# City-Brain---ExpoTech
-Projeto Semestral envolvendo Dashboard tendo base uma "Cidade Inteligente"
+# 📊 City Brain — ExpoTech
+*Projeto Semestral envolvendo Dashboard tendo base uma "Cidade Inteligente"*
 
-# 📊 City Brain — Dashboard
-
-🧠 Visão Geral
+## 🧠 Visão Geral
 
 O City Brain é um projeto de Business Intelligence que simula a gestão de uma cidade inteligente, utilizando análise de dados para apoiar a tomada de decisões estratégicas em áreas urbanas críticas.
 
@@ -11,7 +9,7 @@ A solução integra Google BigQuery para armazenamento de dados e Looker Studio 
 
 O objetivo é demonstrar como dados podem transformar a gestão pública, tornando-a mais eficiente, preditiva e orientada a resultados.
 
-🌆 Contexto
+## 🌆 Contexto
 
 Com o crescimento acelerado das cidades, surgem desafios como:
 
@@ -29,7 +27,7 @@ Sistemas de monitoramento
 
 O City Brain se posiciona como um sistema de apoio à decisão baseado nesses conceitos.
 
-🎯 Objetivos
+## 🎯 Objetivos
 
 🎯 Objetivo Geral
 
@@ -42,19 +40,19 @@ Criar dashboards interativos
 Simular cenários críticos
 Propor soluções de transformação digital
 
-🏗️ Arquitetura da Solução
+## 🏗️ Arquitetura da Solução
 
 O projeto segue a seguinte estrutura:
 
 Fontes de Dados → BigQuery → Looker Studio → Dashboard Interativo
 
-🔹 Tecnologias Utilizadas
+## 🔹 Tecnologias Utilizadas
 Google BigQuery → Armazenamento e processamento de dados
 Looker Studio → Visualização e dashboards
 GitHub → Versionamento e documentação
 SQL → Manipulação de dados
 
-📊 Indicadores do Dashboard
+## 📊 Indicadores do Dashboard
 
 O dashboard do City Brain irá contemplar indicadores como:
 
@@ -75,7 +73,7 @@ Regiões críticas
 Ocorrências por região
 Tendências e padrões
 
-🧩 Metodologia
+## 🧩 Metodologia
 
 O desenvolvimento do projeto segue as etapas:
 
@@ -87,7 +85,7 @@ Criação de dashboards no Looker Studio
 Simulação de cenários
 Validação dos dados (Quality Assurance)
 
-📚 Referencial Teórico
+## 📚 Referencial Teórico
 
 🏛️ Governança de TI
 
@@ -122,16 +120,16 @@ Data Analytics
 
 Para modernizar a gestão pública.
 
-🎥 Entregáveis do Projeto
+## 🎥 Entregáveis do Projeto
 
 Este projeto inclui:
 
-📊 Link Dashboard interativo (Looker Studio):
-🗃️ Link Base de dados estruturada (BigQuery):
-🎥 Link Vídeo pitch explicativo:
+📊 *Link* Dashboard interativo (Looker Studio):
+🗃️ *Link* Base de dados estruturada (BigQuery):
+🎥 *Link* Vídeo pitch explicativo:
 💻 Repositório GitHub documentado
 
-📈 Resultados Esperados
+## 📈 Resultados Esperados
 
 Com a implementação do City Brain, espera-se:
 
@@ -140,7 +138,7 @@ Otimização do consumo de energia
 Eficiência na gestão de resíduos
 Tomada de decisões mais rápida e assertiva
 
-🧠 Diferencial do Projeto
+## 🧠 Diferencial do Projeto
 
 O grande diferencial do City Brain é a proposta de uma visão integrada da cidade, permitindo:
 
@@ -149,7 +147,7 @@ Identificação de problemas antes que se tornem críticos
 Suporte à decisão baseado em dados
 Simulação de cenários futuros
 
-🚀 Conclusão
+## 🚀 Conclusão
 
 O projeto demonstra como o uso de Business Intelligence aliado à governança de TI pode transformar a gestão urbana.
 
@@ -159,7 +157,7 @@ Inteligentes
 Sustentáveis
 Eficientes
 
-👨‍💻 Autores
+## 👨‍💻 Autores
 Ryan Ribeiro - 105128
 Eduardo Marques - 97927
 Pamela Camargo - 110361
