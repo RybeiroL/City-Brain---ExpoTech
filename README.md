@@ -1,5 +1,5 @@
 # 📊 City Brain — ExpoTech
-*Projeto Semestral envolvendo Dashboard tendo base uma "Cidade Inteligente"*
+*Projeto Semestral envolvendo Dashboard tendo base uma "Cidade Inteligente".*
 
 ## 🧠 Visão Geral
 
@@ -13,17 +13,23 @@ O objetivo é demonstrar como dados podem transformar a gestão pública, tornan
 
 Com o crescimento acelerado das cidades, surgem desafios como:
 
-Mobilidade urbana ineficiente
-Alto consumo de energia
-Gestão inadequada de resíduos
-Problemas de segurança pública
+*• Mobilidade urbana ineficiente;*
+
+*• Alto consumo de energia;*
+
+*• Gestão inadequada de resíduos;*
+
+*• Problemas de segurança pública.*
 
 Diante disso, o conceito de Smart Cities (Cidades Inteligentes) surge como solução, utilizando:
 
-Internet das Coisas (IoT)
-Computação em nuvem
-Análise de dados
-Sistemas de monitoramento
+*• Internet das Coisas (IoT);*
+
+*• Computação em nuvem;*
+
+*• Análise de dados;*
+
+*• Sistemas de monitoramento.*
 
 O City Brain se posiciona como um sistema de apoio à decisão baseado nesses conceitos.
 
@@ -61,36 +67,46 @@ SQL → Manipulação de dados
 O dashboard do City Brain irá contemplar indicadores como:
 
 🚗 Mobilidade Urbana
-Fluxo de trânsito
-Tempo médio de deslocamento
-Ocorrências de congestionamento
+
+*• Fluxo de trânsito;*
+*• Tempo médio de deslocamento;*
+*• Ocorrências de congestionamento.*
 
 ⚡ Energia
-Consumo por região
-Picos de uso
-Eficiência energética
+
+*• Consumo por região;*
+*• Picos de uso;*
+*• Eficiência energética.*
 
 ♻️ Resíduos
-Volume coletado
-Frequência de coleta
-Regiões críticas
+
+*• Volume coletado;*
+*• Frequência de coleta;*
+*• Regiões críticas.*
 
 🚓 Segurança Pública
-Índices de criminalidade
-Ocorrências por região
-Tendências e padrões
+
+*• Índices de criminalidade;*
+*• Ocorrências por região;*
+*• Tendências e padrões.*
 
 ## 🧩 Metodologia
 
 O desenvolvimento do projeto segue as etapas:
 
-Definição dos objetivos urbanos
-Levantamento de requisitos de governança
-Definição de KPIs
-Modelagem e ingestão de dados no BigQuery
-Criação de dashboards no Looker Studio
-Simulação de cenários
-Validação dos dados (Quality Assurance)
+*-Definição dos objetivos urbanos;*
+
+*-Levantamento de requisitos de governança;*
+
+*-Definição de KPIs;*
+
+*-Modelagem e ingestão de dados no BigQuery;*
+
+*-Criação de dashboards no Looker Studio;*
+
+*-Simulação de cenários;*
+
+*-Validação dos dados (Quality Assurance).*
 
 ## 📚 Referencial Teórico
 
@@ -98,32 +114,39 @@ Validação dos dados (Quality Assurance)
 
 Uso de frameworks como:
 
-COBIT
-ISO 38500
+*-COBIT;*
+
+*-ISO 38500.*
 
 Garantindo:
 
-Alinhamento estratégico
-Segurança
-Conformidade
+*➝ Alinhamento estratégico;*
+
+*➝ Segurança;*
+
+*➝ Conformidade.*
 
 📊 Business Intelligence
 
 Processos de:
 
-Coleta
-Análise
-Visualização de dados
+*➝ Coleta;*
 
-Transformando dados em decisões.
+*➝ Análise;*
+
+*➝ Visualização de dados;*
+
+*➝ Transformando dados em decisões.*
 
 🚀 Transformação Digital
 
 Aplicação de:
 
-IoT
-Cloud Computing
-Data Analytics
+*➝ IoT;*
+
+*➝ Cloud Computing;*
+
+*➝ Data Analytics.*
 
 Para modernizar a gestão pública.
 
@@ -131,28 +154,37 @@ Para modernizar a gestão pública.
 
 Este projeto inclui:
 
-📊 *Link* Dashboard interativo (Looker Studio):
-🗃️ *Link* Base de dados estruturada (BigQuery):
-🎥 *Link* Vídeo pitch explicativo:
+📊 *Link Dashboard interativo (Looker Studio):*
+
+🗃️ *Link Base de dados estruturada (BigQuery):*
+
+🎥 *Link Vídeo pitch explicativo:*
+
 💻 Repositório GitHub documentado
 
 ## 📈 Resultados Esperados
 
 Com a implementação do City Brain, espera-se:
 
-Melhoria na mobilidade urbana
-Otimização do consumo de energia
-Eficiência na gestão de resíduos
-Tomada de decisões mais rápida e assertiva
+*✓ Melhoria na mobilidade urbana;*
+
+*✓ Otimização do consumo de energia;*
+
+*✓ Eficiência na gestão de resíduos;*
+
+*✓ Tomada de decisões mais rápida e assertiva.*
 
 ## 🧠 Diferencial do Projeto
 
 O grande diferencial do City Brain é a proposta de uma visão integrada da cidade, permitindo:
 
-Monitoramento em tempo real
-Identificação de problemas antes que se tornem críticos
-Suporte à decisão baseado em dados
-Simulação de cenários futuros
+*•Monitoramento em tempo real;*
+
+*•Identificação de problemas antes que se tornem críticos;*
+
+*•Suporte à decisão baseado em dados;*
+
+*•Simulação de cenários futuros.*
 
 ## 🚀 Conclusão
 
@@ -160,16 +192,20 @@ O projeto demonstra como o uso de Business Intelligence aliado à governança de
 
 Através da integração de dados e visualização estratégica, o City Brain evidencia o potencial das tecnologias digitais para construir cidades mais:
 
-Inteligentes
-Sustentáveis
-Eficientes
+*•Inteligentes;*
+
+*•Sustentáveis;*
+
+*•Eficientes.*
 
 ## 👨‍💻 Autores
-Ryan Ribeiro - 105128
-Eduardo Marques - 97927
-Pamela Camargo - 110361
+◆Ryan Ribeiro - 105128
+
+◆Pamela Camargo - 110361
+
+◆Eduardo Marques - 97927
 
 Turma: GTI5NA
 
 
-Projeto desenvolvido para fins acadêmicos.
+*➤Projeto desenvolvido para fins acadêmicos.*
