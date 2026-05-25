@@ -41,11 +41,15 @@ Desenvolver uma solução de Business Intelligence para monitoramento e gestão 
 
 📌 Objetivos Específicos
 
-Definir indicadores estratégicos urbanos (KPIs)
-Aplicar frameworks de governança de TI
-Criar dashboards interativos
-Simular cenários críticos
-Propor soluções de transformação digital
+*• Definir indicadores estratégicos urbanos (KPIs);*
+
+*• Aplicar frameworks de governança de TI;*
+
+*• Criar dashboards interativos;*
+
+*• Simular cenários críticos;*
+
+*• Propor soluções de transformação digital.*
 
 ## 🏗️ Arquitetura da Solução
 
