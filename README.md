@@ -73,18 +73,15 @@ O dashboard do City Brain irá contemplar indicadores como:
 🚗 Mobilidade Urbana
 
 *• Fluxo de trânsito;*
-*• Tempo médio de deslocamento;*
 *• Ocorrências de congestionamento.*
 
 ⚡ Energia
 
 *• Consumo por região;*
 *• Picos de uso;*
-*• Eficiência energética.*
 
 ♻️ Resíduos
 
-*• Volume coletado;*
 *• Frequência de coleta;*
 *• Regiões críticas.*
 
@@ -92,7 +89,6 @@ O dashboard do City Brain irá contemplar indicadores como:
 
 *• Índices de criminalidade;*
 *• Ocorrências por região;*
-*• Tendências e padrões.*
 
 ## 🧩 Metodologia
 
