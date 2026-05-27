@@ -1,0 +1,13 @@
+Perguntas utilizadas para o Dashboard.
+
+1. Quais são os incidentes que mais ocorrem na cidade?
+
+2. Qual categoria urbana apresenta maior impacto?
+
+3. Quais lugares são mais afetadas por ocorrências?
+
+4. Como as ocorrências evoluem ao longo do tempo?
+
+5. Qual o volume total de ocorrências na cidade?
+
+6. Qual o número de ocorrências por tipo de incidente?
