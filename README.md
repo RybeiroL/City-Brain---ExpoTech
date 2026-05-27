@@ -78,7 +78,7 @@ O dashboard do City Brain irá contemplar indicadores como:
 ⚡ Energia
 
 *• Consumo por região;*
-*• Picos de uso;*
+*• Picos de uso.*
 
 ♻️ Resíduos
 
@@ -88,7 +88,7 @@ O dashboard do City Brain irá contemplar indicadores como:
 🚓 Segurança Pública
 
 *• Índices de criminalidade;*
-*• Ocorrências por região;*
+*• Ocorrências por região.*
 
 ## 🧩 Metodologia
 
