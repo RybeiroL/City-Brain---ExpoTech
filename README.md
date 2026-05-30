@@ -158,7 +158,7 @@ Este projeto inclui:
 
 🗃️ *Link Base de dados estruturada (BigQuery):* https://console.cloud.google.com/bigquery?authuser=1&project=crypto-triode-497517-m1&ws=!1m19!1m7!12m5!1m3!1scrypto-triode-497517-m1!2sus-central1!3s9f062674-0e0f-4fd7-8b46-efee79cc0303!2e1!23sQUERY_RESOURCE!1m4!4m3!1scrypto-triode-497517-m1!2sCityBrain!3stb_fato_final!1m5!4m3!1scrypto-triode-497517-m1!2sCityBrain!3stb_fato!23sTREE_NODE_SELECTION
 
-🎥 *Link Vídeo pitch explicativo:*
+🎥 *Link Vídeo pitch explicativo:* https://youtu.be/1sLqwh5mRjQ
 
 💻 Repositório GitHub documentado
 
